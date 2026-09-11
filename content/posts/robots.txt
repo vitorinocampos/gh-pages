@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://vitorinocampos.com.br/sitemap.xml

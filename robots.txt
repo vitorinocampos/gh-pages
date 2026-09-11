@@ -1,5 +1,4 @@
-User-agent: GPTBot
-Disallow: /
 User-agent: *
-Disallow:
+Allow: /
+
 Sitemap: https://vitorinocampos.com.br/sitemap.xml
